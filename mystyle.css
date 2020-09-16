@@ -50,34 +50,5 @@ footer {
 
 p img {
   display: flex;
-  flex-flow: row wrap;
-}
-
-#img1 {
-  flex-basis: auto;
-}
-
-#img2 {
-  flex-basis: auto;
-}
-#img3 {
-  flex-basis: auto;
-}
-#img4 {
-  flex-basis: auto;
-}
-#img5 {
-  flex-basis: auto;
-}
-#img6 {
-  flex-basis: auto;
-}
-#img7 {
-  flex-basis: auto;
-}
-#img8 {
-  flex-basis: auto;
-}
-#img9 {
-  flex-basis: auto;
+  flex-wrap: wrap;
 }
