@@ -50,5 +50,6 @@ footer {
 
 p img {
   display: flex;
-  flex-wrap: wrap;
+  flex-flow: row wrap;
 }
+
