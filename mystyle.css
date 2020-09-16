@@ -48,7 +48,8 @@ footer {
   background-color: darkslategray;
 }
 
-p img {
+.bildgalleri {
   display: flex;
   flex-wrap: wrap;
+  flex-grow: inherit;
 }
