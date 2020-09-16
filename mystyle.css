@@ -43,13 +43,19 @@ nav li {
 
 footer {
   padding: 5px;
+  margin-top: 0px;
   text-align: center;
   color: antiquewhite;
   background-color: darkslategray;
 }
 
+.pbilder {
+  margin: 0px;
+}
+
+
 .bildgalleri {
   display: flex;
   flex-wrap: wrap;
-  flex-grow: inherit;
+  flex-basis: inherit;
 }
