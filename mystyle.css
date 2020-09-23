@@ -7,7 +7,7 @@ body {
 
 header {
   color: white;
-  background-color: rgb(95, 189, 194);
+  background-color: rgb(75, 253, 185);
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
   padding: 10px;
@@ -19,7 +19,8 @@ a:hover {
 article {
   color: black;
   background-color: white;
-  font-family: "Times New Roman", Times, serif;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
   margin-bottom: 32px;
 }
 li h4 {
@@ -38,7 +39,8 @@ nav li {
   text-decoration: none;
   display: inline-block;
   align-content: center;
-  margin-right: 30px;
+  margin-right: 48px;
+  font-size: larger;
 }
 
 footer {
