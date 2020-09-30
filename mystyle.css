@@ -3,6 +3,7 @@ body {
   padding: 0;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
+  font-size: 1vw;
 }
 
 header {
@@ -10,7 +11,8 @@ header {
   background-color: rgb(80, 208, 224);
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
-  padding: 10px;
+  padding: 1vw;
+  font-size: 1.5vw;
 }
 a:hover {
   text-decoration: underline;
@@ -22,24 +24,24 @@ article {
   background-color: white;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
-  margin-bottom: 32px;
+  margin-bottom: 1vw;
 }
 li h4 {
-  margin-left: 0px;
-  padding: 0px;
+  margin-left: 0;
+  padding: 0;
 }
 article li {
   list-style: none;
   text-decoration: no underline;
   display: inline-block;
-  margin-right: 50px;
+  margin-right: 1.5vw;
 }
 
 nav li {
   list-style: none;
   display: inline-block;
   align-content: center;
-  margin-right: 48px;
+  margin-right: 3vw;
   font-size: larger;
 }
 
@@ -49,15 +51,15 @@ a {
 }
 
 footer {
-  padding: 5px;
-  margin-top: 0px;
+  padding: 0.2vw;
+  margin-top: 0;
   text-align: center;
   color: antiquewhite;
   background-color: darkslategray;
 }
 
 .pbilder {
-  margin: 0px;
+  margin: 0;
 }
 
 .bildgalleri {
