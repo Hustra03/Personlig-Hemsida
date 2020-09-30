@@ -28,6 +28,10 @@ article {
   margin-bottom: 1vw;
   margin-left:0.2vw;
 }
+
+article p {
+  margin-left:0;
+}
 li h4 {
   margin-left: 0;
   padding: 0;
