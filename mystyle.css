@@ -3,7 +3,7 @@ body {
   padding: 0;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
-  font-size: 1vw;
+  font-size: 1.2vw;
 }
 
 header {
@@ -12,7 +12,7 @@ header {
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
   padding: 1vw;
-  font-size: 1.5vw;
+  font-size: 1.75vw;
 }
 a:hover {
   text-decoration: underline;
