@@ -4,7 +4,7 @@ body {
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
   font-size: 1.2vw;
-  padding:0.5vw;
+  
 }
 
 header {
@@ -26,6 +26,7 @@ article {
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
   margin-bottom: 1vw;
+  margin-left:0.2vw;
 }
 li h4 {
   margin-left: 0;
